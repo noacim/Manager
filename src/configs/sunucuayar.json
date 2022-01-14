@@ -1,0 +1,132 @@
+{
+  "staffs": [
+    ""
+  ],
+  "erkekRolleri": [
+    "",""
+  ],
+  "kizRolleri": [
+    "",""
+  ],
+  "yetkiRolleri": [
+    "",
+    ""
+
+  ],
+  "teyitciRolleri": [
+    ""
+  ],
+  "ekipRolu": [
+    ""
+  ],
+  "sahipRolu": [
+    "",
+    ""  
+  ],
+  "unregRoles": [
+    ""
+  ],
+  "boosterRolu": "",
+  "warnHammer": [
+    ""
+  ],
+  "banHammer": [
+    ""
+  ],
+  "jailHammer": [
+   ""
+  ],
+  "cmuteHammer": [
+   ""
+  ],
+  "vmuteHammer": [
+    ""
+  ],
+  "tag": "",
+  "ikinciTag": "",
+  "jailRole": [
+    ""
+  ],
+  "chatMute": [
+    ""
+  ],
+  "voiceMute": [
+    ""
+  ],
+  "fakeAccRole": [
+    ""
+  ],
+  "rolverici": [
+    "" 
+  ],
+  "katildiRole": "",
+  "mazaretliRole": "",
+  "uyariRole": "",
+  "enAltYetkiliRole": "",
+  "chatChannel": "",
+  "teyitKanali": "",
+  "messageLogChannel": "",
+  "voiceLogChannel": "",
+  "ekipLogChannel": "",
+  "invLogChannel": "",
+  "rankLog": "",
+  "banLogChannel": "",
+  "jailLogChannel": "",
+  "cmuteLogChannel": "",
+  "vmuteLogChannel": "",
+  "warnLogChannel": "",
+  "botses": "",
+  "kurallar": "",
+  "marketLog": "",
+  "cezapuanlog": "",
+  "rollogchannel": "",
+  "toplantiSesChannel": "",
+  "mazaretliLogChannel": "",
+  "cekilis": "", 
+  "etkinlik": "", 
+  "ecrolalmakanal": "",
+  "sevgilimvar": "",
+  "sevgilimyok": "",
+  "lgbt": "",
+  "yetkiLog": "",
+
+"ikizler ": "",
+"yengeç ": "",
+"boğa": "",
+"koç": "",
+"akrep": "",
+"terazi": "",
+"başak": "",
+"aslan": "",
+"balık": "",
+"kova": "",
+"oğlak": "",
+"yay": "",
+
+  "iliskirolalmakanal": "",
+  "vipRole": "",
+  "dcsorumlu": "",
+  "dcdenetleyici": "",
+  "dccezalı": "",
+  "komutLog" : "", 
+  "musician": "",
+  "soruncozucu": "",
+  "streamer": "",
+  "tasarımcı": "",
+  "publicParents": [
+    ""
+  ],
+  "registerParents": [
+    ""
+  ],
+  "solvingParents": [
+    "",""
+  ],
+  "privateParents": [
+    ""
+  ],
+  "aloneParents": [
+    ""
+  ],
+  "funParents": [""]
+}
